@@ -1,0 +1,6 @@
+{
+  "name": "KHBD STUDIO – FPT SCHOOLS",
+  "description": "Hệ thống hỗ trợ giáo viên FPT Schools soạn Kế hoạch bài dạy chuẩn Công văn 5512 cùng trợ lý Gemini AI thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
